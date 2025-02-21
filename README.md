@@ -1,0 +1,1 @@
+This repository contains a MATLAB function that demonstrates an uncommon error: unhandled negative input. The function `myFunction` takes an input and multiplies it by 2.  However, it includes a check for negative input which causes an error.  The solution demonstrates how to handle this situation more gracefully.
